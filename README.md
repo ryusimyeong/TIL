@@ -8,6 +8,8 @@
 - [스크롤바 숨기기](./html-css/20201208.md)
 - [clientHeight, offsetHeight, scrollHeight의 차이](./html-css/20201214.md)
 - [HTML checkbox 디자인 커스텀하기](./html-css/20201218.md)
+- [애니메이션 최적화 (Reflow, Repainting)](./html-css/20201222.md)
+
 ## JS
 
 - [hasOwnProperty등 builtin 메소드 안전하게 사용하기](./js/20201201.md)
