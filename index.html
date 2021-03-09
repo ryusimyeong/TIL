@@ -11,19 +11,20 @@
     .checkbox {
       display: none;
     }
+
     /* 체크박스의 위치 기준점 */
     .checkbox-label {
-      display: block; 
+      display: block;
       position: relative;
       cursor: pointer;
     }
 
     /* check되지 않았을 때 스타일 */
-    .checkbox + .checkbox-label::before {
+    .checkbox+.checkbox-label::before {
       /* content가 없으면 before는 보이지 않음 */
-      content: ""; 
+      content: "";
       position: absolute;
-      top:0;
+      top: 0;
       left: 0;
       width: 20px;
       height: 20px;
@@ -31,7 +32,7 @@
     }
 
     /* check되었을 때 스타일 */
-    .checkbox:checked + .checkbox-label::before {
+    .checkbox:checked+.checkbox-label::before {
       background-color: blue;
     }
 
@@ -47,6 +48,7 @@
 <body>
   <input type="checkbox" name="" id="checkbox" class="checkbox">
   <label class="checkbox-label" for="checkbox"><span class="checkbox-text">텍스트</span></label>
+  <script src="./index.js"></script>
 </body>
 
 </html>
