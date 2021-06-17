@@ -10,7 +10,7 @@
 - [HTML checkbox 디자인 커스텀하기](./html-css/20201218.md)
 - [애니메이션 최적화 (Reflow, Repainting)](./html-css/20201222.md)
 - [position absolute와 fixed의 차이](./html-css/20210106.md)
-- [container와 wrapper의 차이](./html-css/20210617.md)
+- [HTML/CSS 네이밍 시 container와 wrapper의 차이](./html-css/20210617.md)
 
 
 ## JS
