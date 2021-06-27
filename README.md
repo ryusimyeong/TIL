@@ -12,13 +12,13 @@
 - [position absolute와 fixed의 차이](./html-css/20210106.md)
 - [HTML/CSS 네이밍 시 container와 wrapper의 차이](./html-css/20210617.md)
 
-
 ## JS
 
 - [hasOwnProperty등 builtin 메소드 안전하게 사용하기](./js/20201201.md)
 - [자바스크립트로 페이지 새로고침하기](./js/20201209.md)
 - [자바스크립트 무작위 정수 뽑기, 배열에서 무작위 원소 뽑기](./js/20210301.md)
 - [자바스크립트 Array.from() 활용하기](./js/20210309.md)
+- [iOS, Safari(사파리) 자바스크립트 new Date() 크로스브라우징 이슈](./js/20210627.md)
 
 ## git
 
