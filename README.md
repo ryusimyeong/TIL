@@ -26,6 +26,7 @@
 - [git에서 특정 브랜치만 clone하기](./git/20201202.md)
 - [commit, add, pull, merge 취소하기](./git/20201203.md)
 - [git cherry-pick 활용하기](./git/20210629.md)
+- [git 원격저장소 branch commit 되돌리기와 prune](./git/20210710.md)
 
 ## ETC
 - [npm ERR! code ELIFECYCLE 해결하기](/etc/20201219.md)
