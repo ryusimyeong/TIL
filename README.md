@@ -42,3 +42,4 @@
 - [npm, npm, yarn 구분하기](/etc/20210104.md)
 - [VSC 단축키 모음](/etc/20210202.md)
 - [eslint 특정 라인 혹은 특정 파일에만 ignore하기](/etc/20210925.md)
+- [eslint 특정 라인 혹은 특정 파일에만 ignore하기](/etc/20210928.md)
