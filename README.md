@@ -13,6 +13,7 @@
 - [HTML/CSS 네이밍 시 container와 wrapper의 차이](./html-css/20210617.md)
 - [iOS에서 기본 적용된 input shadow 제거하기](./html-css/20210908.md)
 - [html button 요소에 type을 지정하는 이유](./html-css/20210910.md)
+- [class와 id 선택자를 중심으로 살펴보는 효율적인 렌더링을 위한 CSS 활용](./html-css/20211008.md)
 
 ## JS
 
