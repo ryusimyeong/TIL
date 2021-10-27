@@ -47,6 +47,7 @@
 - [VSC 단축키 모음](/etc/20210202.md)
 - [eslint 특정 라인 혹은 특정 파일에만 ignore하기](/etc/20210925.md)
 - [WAS와 웹 서버(Web Server)의 차이](/etc/20211018.md)
+- [컴파일타임(compiletime)과 런타임(runtime)](/etc/20211027.md)
 
 ## 번역
 
