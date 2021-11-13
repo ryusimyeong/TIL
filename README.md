@@ -10,6 +10,7 @@
 - [HTML checkbox 디자인 커스텀하기](./html-css/20201218.md)
 - [애니메이션 최적화 (Reflow, Repainting)](./html-css/20201222.md)
 - [position absolute와 fixed의 차이](./html-css/20210106.md)
+- [HTML 시멘틱 구조](./html-css/20210120.md) // 예정
 - [HTML/CSS 네이밍 시 container와 wrapper의 차이](./html-css/20210617.md)
 - [iOS에서 기본 적용된 input shadow 제거하기](./html-css/20210908.md)
 - [html button 요소에 type을 지정하는 이유](./html-css/20210910.md)
@@ -27,8 +28,8 @@
 - [자바스크립트 클립보드 복사 기능 만들기](./js/20210905.md)
 - [자바스크립트 현재 날짜와 시간 항상 한국 기준으로 구하기](./js/20210914.md)
 - [자바스크립트 디바운스와 쓰로틀링](./js/20210915.md)
-- [자바스크립트 SEO 총정리](./js/20210921.md)
-- [자바스크립트 인터섹션 옵저버 정리](./js/20210930.md)
+- [자바스크립트 SEO 총정리](./js/20210921.md) // 예정
+- [자바스크립트 인터섹션 옵저버 정리](./js/20210930.md) // 예정
 - [자바스크립트 이벤트 루프 정리](./js/20211021.md)
 
 ## git
@@ -48,9 +49,9 @@
 - [eslint 특정 라인 혹은 특정 파일에만 ignore하기](/etc/20210925.md)
 - [git 마지막 commit 메세지 수정하기](./git/20210716.md)
 - [WAS와 웹 서버(Web Server)의 차이](/etc/20211018.md)
-- [컴파일타임(compiletime)과 런타임(runtime)](/etc/20211027.md)
+- [컴파일타임(compiletime)과 런타임(runtime)](/etc/20211027.md) // 예정
 
 ## 번역
 
-- [효율적인 CSS 선택자 작성(번역)](/article/20211017.md)
-- [정적 타입의 충격적 비밀(번역)](/article/20211109.md)
+- [효율적인 CSS 선택자 작성(번역)](/article/20211017.md) // 예정
+- [정적 타입의 충격적 비밀(번역)](/article/20211109.md) // 예정
