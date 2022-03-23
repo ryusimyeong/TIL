@@ -15,7 +15,7 @@
 - [iOS에서 기본 적용된 input shadow 제거하기](./html-css/20210908.md)
 - [html button 요소에 type을 지정하는 이유](./html-css/20210910.md)
 - [class와 id 선택자를 중심으로 살펴보는 효율적인 렌더링을 위한 CSS 활용](./html-css/20211008.md)
-- [target="_blank" 사용 시 Tabnabbing 공격 방지하기](./html-css/20220119.md)
+- [target="\_blank" 사용 시 Tabnabbing 공격 방지하기](./html-css/20220119.md)
 
 ## JS
 
@@ -53,6 +53,7 @@
 - [WAS와 웹 서버(Web Server)의 차이](/etc/20211018.md)
 - [컴파일타임(compiletime)과 런타임(runtime)](/etc/20211027.md)
 - [package.lock.json이란?](/etc/20211119.md) // 예정
+- [MacOS Monterey 맥 몬테레이 port 5000 이슈(Port 5000 is already in use)](/etc/20220323.md)
 
 ## 번역
 
