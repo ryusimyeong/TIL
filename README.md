@@ -55,6 +55,7 @@
 - [컴파일타임(compiletime)과 런타임(runtime)](/etc/20211027.md)
 - [package.lock.json이란?](/etc/20211119.md) // 예정
 - [MacOS Monterey 맥 몬테레이 port 5000 이슈(Port 5000 is already in use)](/etc/20220323.md)
+- [카카오, 페이스북, 트위터 오픈그래프 및 메타 정보 캐시 삭제](/etc/20221103.md)
 
 ## 번역
 
